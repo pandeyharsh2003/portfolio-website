@@ -60,7 +60,7 @@ export function HeroDashboard() {
             className="order-2 md:order-1"
           >
             <h1 className="section-title mb-4">
-              Hi, I'm <GradientText>Harsh Pandey</GradientText>
+              Hi, I&apos;m <GradientText>Harsh Pandey</GradientText>
             </h1>
             <p className="section-subtitle mb-6 text-text-secondary">
               Full-Stack Developer & AI Systems Architect
